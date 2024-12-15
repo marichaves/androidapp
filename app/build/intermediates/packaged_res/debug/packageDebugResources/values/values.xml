@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="colorAccent">#FF5722</color>
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#1976D2</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Agenda de Contatos</string>
+    <string name="btn_cancelar">Cancelar</string>
+    <string name="btn_deletar">Deletar</string>
+    <string name="btn_novo_contato">Novo Contato</string>
+    <string name="btn_salvar">Salvar</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_nome">Nome</string>
+    <string name="hint_telefone">Telefone</string>
+    <string name="msg_contato_deletado">Contato deletado com sucesso!</string>
+    <string name="msg_contato_salvo">Contato salvo com sucesso!</string>
+    <string name="msg_erro">Ocorreu um erro. Tente novamente.</string>
+    <string name="titulo_alterar_contato">Alterar Contato</string>
+    <string name="titulo_deletar_contato">Deletar Contato</string>
+    <string name="titulo_meus_contatos">Meus Contatos</string>
+    <string name="titulo_novo_contato">Novo Contato</string>
+    <style name="Base.Theme.Myapp2" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="Theme.Myapp2" parent="Base.Theme.Myapp2"/>
+</resources>
