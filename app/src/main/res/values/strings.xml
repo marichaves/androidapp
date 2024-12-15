@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Nome do aplicativo -->
+    <string name="app_name">Agenda de Contatos</string>
+
+    <!-- Strings para as activities -->
+    <string name="titulo_meus_contatos">Meus Contatos</string>
+    <string name="titulo_novo_contato">Novo Contato</string>
+    <string name="titulo_alterar_contato">Alterar Contato</string>
+    <string name="titulo_deletar_contato">Deletar Contato</string>
+
+    <!-- Strings para campos de formulário -->
+    <string name="hint_nome">Nome</string>
+    <string name="hint_telefone">Telefone</string>
+    <string name="hint_email">Email</string>
+
+    <!-- Strings para botões -->
+    <string name="btn_salvar">Salvar</string>
+    <string name="btn_cancelar">Cancelar</string>
+    <string name="btn_deletar">Deletar</string>
+    <string name="btn_novo_contato">Novo Contato</string>
+
+    <!-- Mensagens -->
+    <string name="msg_contato_salvo">Contato salvo com sucesso!</string>
+    <string name="msg_contato_deletado">Contato deletado com sucesso!</string>
+    <string name="msg_erro">Ocorreu um erro. Tente novamente.</string>
+</resources>
